@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I'm IL'aina</h1>
-<h3 align="center">A passionate cybersecurity engineer STUDENT at Universite du Quebec A Chicoutimi (UQAC). 2nd year</h3>
+<h1 align="center">Hello world 👋, I'm IL'aina</h1>
+<h3 align="center">A passionate cybersecurity engineer STUDENT at Université du Québec A Chicoutimi (UQAC). 2nd year and little more...</h3>
 
 - 🌱 I’m currently performing **Python, Java, SQL languages**
 
 - 📫 How to reach me **ratefilaina@gmail.com**
 
-- ⚡ **Do you know : The first high-level programming language was named "Fortran," which stands for "Formula Translation."🫠**
+- ⚡ **"Cybersecurity is not just about protecting your devices. It’s about protecting yourself."🫠 - Anonymous**
 
 
 <h3 align="left">Languages and Tools:</h3>
